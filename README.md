@@ -1,8 +1,8 @@
 # Domain Tester CSharp
-Simples aplicação de autenticação em domínio Windows.
+Simples aplicação de autenticação em domínio Windows com C#.
 
 # Objetivo
-Este projeto apresenta de forma simples como autenticar um usuário em um domínio Windows.
+Este projeto apresenta de forma simples como autenticar um usuário em um domínio Windows utilizando C#.
 
 ## Feedback
 
