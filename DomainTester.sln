@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainTester", "src\DomainTester\DomainTester.csproj", "{4049D88A-C722-4356-B8B7-8D505EB8AE89}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{9D441377-A9FC-47B7-9685-198BA106F6EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4049D88A-C722-4356-B8B7-8D505EB8AE89} = {9D441377-A9FC-47B7-9685-198BA106F6EC}
 	EndGlobalSection
 EndGlobal
